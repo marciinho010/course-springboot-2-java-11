@@ -45,7 +45,6 @@ public class Order implements Serializable {
 		this.moment = moment;
 		setOrderStatus(orderStatus);
 		this.client = client;
-		
 	}
 
 
